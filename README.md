@@ -1,2 +1,2 @@
 # CodeQL
-Lets make code more secure ! 
+Lets make codes more secure ! 
