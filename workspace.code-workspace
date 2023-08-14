@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "[pwntester_dubbo_v2.7.8_3b2cfa9 source archive]",
+			"uri": "codeql-zip-archive://0-156/home/kali/.config/Code - OSS/User/workspaceStorage/948dbe77eb05ef9cfae453f99f78debf/GitHub.vscode-codeql/dubbo_2.7.8/pwntester_dubbo_v2.7.8_3b2cfa9/src.zip"
+		},
+		{
+			"name": "[pwntester_dubbo_v2.7.8_3b2cfa9 source archive]",
+			"uri": "codeql-zip-archive://0-158/home/kali/.config/Code - OSS/User/workspaceStorage/948dbe77eb05ef9cfae453f99f78debf/GitHub.vscode-codeql/dubbo_2.7.8-1/pwntester_dubbo_v2.7.8_3b2cfa9/src.zip"
+		},
+		{
+			"name": "[pwntester_dubbo_v2.7.8_3b2cfa9 source archive]",
+			"uri": "codeql-zip-archive://0-158/home/kali/.config/Code - OSS/User/workspaceStorage/948dbe77eb05ef9cfae453f99f78debf/GitHub.vscode-codeql/dubbo_2.7.8-2/pwntester_dubbo_v2.7.8_3b2cfa9/src.zip"
+		}
+	],
+	"settings": {}
+}
